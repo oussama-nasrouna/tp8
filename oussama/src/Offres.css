@@ -1,0 +1,18 @@
+.card-body
+{
+    background-color: white;
+    padding: 2rem;
+    border: 0px;
+}
+
+.card-text
+{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.cardo
+{
+    width: 25%;
+    background-color: bisque;
+}
